@@ -1,0 +1,18 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: rgb(38, 95, 86);
+    color: white;
+    padding: 20px;
+}
+
+button{
+    background-color: rgb(38, 95, 86) ;
+    border: none;
+    color: white;
+}
+
+h5{
+    margin: 0;
+}
